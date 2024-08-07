@@ -14,3 +14,9 @@ Here's the [project backlog](https://github.com/orgs/TheGreatFootballPool/projec
 
 This repo will serve as the main repo with everything needed for me to host the site.
 
+## Current state
+* Simple FastAPI Docker container created
+
+## Next step
+* publish docker to docker hub on git push
+
